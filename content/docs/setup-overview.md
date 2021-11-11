@@ -1,11 +1,18 @@
 ---
 title: Getting Started
 id: /docs/setup-overview/
-last_edited: '2021-10-18T15:51:56.737Z'
-next: '/docs/schema'
+last_edited: '2021-11-11T13:20:52.764Z'
+next: /docs/schema
 ---
-
 ## Quick Setup
+
+* asdasads
+* asdasdas
+* **asd**
+
+
+
+- [x] asdasdasd
 
 To quickly setup a new Tina starter, from the command line, run:
 
